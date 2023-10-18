@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /assets/
+Disallow: /admin/
+Sitemap: http://www.atool.org/sitemap.xml
